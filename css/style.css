@@ -1104,9 +1104,10 @@ textarea.form-control {
 
 .page-title {
   background: url(../upload/devfest2015_resized.png) no-repeat fixed;
+  background-size: contain;
   position: relative;
   background-position: 50% 0%;
-  max-height:500px;
+  max-height: 460px;
 }
 
 .page-title .container {
